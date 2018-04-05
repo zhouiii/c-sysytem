@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "mybatis-3-config.dtd" >
+<configuration>
+	<typeAliases>
+		<package name="cn.temptation.entity"></package>
+	</typeAliases>
+	<mappers>
+		<package name="cn.temptation.dao"></package>
+	</mappers>
+</configuration>
